@@ -1,0 +1,16 @@
+create folder(with anyname)
+	author
+	publish
+author
+	aem-author-4502.jar	
+	licence.properties
+publish
+	aem-author-4503.jar	
+	licence.properties
+
+INSTALLATION STEPS:
+	double click on jar quick start will create
+	aem window will appear and server start
+
+step-1:
+		
